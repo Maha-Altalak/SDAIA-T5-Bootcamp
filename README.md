@@ -1,9 +1,10 @@
 # SDAIA-T5-Bootcamp-
-This project is proposed for SDAIA T5 Data Science Bootcamp
-Abstract: The goal of this project is to use prediction models to predict real estate prices in the north of Riyadh city to help many individuals and investors to know prices and take appropriate decisions according to the factors that affect real estate prices.
+This project is proposed for SDAIA T5 Data Science Bootcamp.
+
+# Abstract
+The goal of this project is to use prediction models to predict real estate prices in the north of Riyadh city to help many individuals and investors to know prices and take appropriate decisions according to the factors that affect real estate prices.
 
 # Design
-
 Four models were used in this project to predict real estate prices and reach the best result among these models.
 The models are linear Regression, Decision Tree, Random Forest, and Support Vector Machine.
 
